@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 ```sh
 git commit -m "mistakes were made"
